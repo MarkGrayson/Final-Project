@@ -1,5 +1,6 @@
 package project.model;
 
-public class Dishes {
+public class Dishes 
+{
 
 }
